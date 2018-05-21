@@ -1,5 +1,9 @@
 # ember-engines-demo
 
+**This is an engine demo to demonstrate a bug when parsing queryParams in lazy
+loading Engines.**
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
